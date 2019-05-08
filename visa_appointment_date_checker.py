@@ -11,8 +11,8 @@ try:
 	email_obj_name = 'Unauthorized:SiteTemplate:siteLogin:loginComponent:loginForm:username'
 	pass_obj_name = 'Unauthorized:SiteTemplate:siteLogin:loginComponent:loginForm:password'
 	check_box_obj_name = 'Unauthorized:SiteTemplate:siteLogin:loginComponent:loginForm:j_id172'
-	email = 'ankuryarazarvi@gmail.com'
-	password = 'Password@604'
+	email = 'Please paste your email here'
+	password = 'Please paste your password here'
 	captcha_text_obj_name = 'Unauthorized:SiteTemplate:siteLogin:loginComponent:loginForm:recaptcha_response_field'
 	login_button_name = 'Unauthorized:SiteTemplate:siteLogin:loginComponent:loginForm:loginButton'
 	driver = webdriver.Chrome(executable_path = DRIVER_BIN)
